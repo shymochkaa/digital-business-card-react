@@ -6,9 +6,6 @@ export default function Footer() {
             <a href="https://www.instagram.com/shymochkaa/"><span><i className="fa-brands fa-square-instagram"></i></span></a>
             <a href="https://github.com/shymochkaa"><span><i className="fa-brands fa-square-github"></i></span></a>
             
-            
-            
-            
            
         </footer>
         
