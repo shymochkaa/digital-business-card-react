@@ -1,7 +1,8 @@
+
 export default function Info() {
     return (
         <main>
-            <img className="foto-profile" src="src/assets/foto-profile.png"/>
+            <img className="foto-profile" src="./src/assets/foto-profile.png"/>
 
             <div className="profile-info">
                 <h1>Hanna Shymanovych</h1>
